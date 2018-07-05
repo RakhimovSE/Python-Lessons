@@ -1,0 +1,18 @@
+1. Взять код из source_3, вынести считывание массива и вывод в две отдельных функции (read_array и print_array). В read_array как параметр передается массив, который надо считать. В print_array передается 2 параметра: массив, который надо вывести и логическая переменная (True/False), которая показывает, надо или нет выводить номера строк и столбцов (True - надо выводить, False - не надо)
+2. Считать с консоли переменные n, m. Создать двумерный массив n*m, заполнить его числами от 1 до n*m. Сделать форматированный вывод
+ПРИМЕР
+Ввод:
+2
+3
+
+Вывод:
+1  2  3  4
+5  6  7  8
+9 10 11 12
+
+3. Зарегистироваться на Timus (http://acm.timus.ru/register.aspx) и решить задачи:
+- http://acm.timus.ru/problem.aspx?space=1&num=1785
+- http://acm.timus.ru/problem.aspx?space=1&num=1293
+- http://acm.timus.ru/problem.aspx?space=1&num=1409
+- http://acm.timus.ru/problem.aspx?space=1&num=2012
+- http://acm.timus.ru/problem.aspx?space=1&num=1877
