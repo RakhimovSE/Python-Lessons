@@ -1,0 +1,13 @@
+1. Решить задачи
+http://acm.timus.ru/problem.aspx?space=1&num=2066
+http://acm.timus.ru/problem.aspx?space=1&num=1243
+http://acm.timus.ru/problem.aspx?space=1&num=1313
+http://acm.timus.ru/problem.aspx?space=1&num=1639
+http://acm.timus.ru/problem.aspx?space=1&num=1585
+
+2. Считать с консоли число n, сгенерировать массив n случайных чисел. Вычислить:
+- среднее квадратичное отклонение
+- моду
+- медиану
+
+Гугли, что это такое
