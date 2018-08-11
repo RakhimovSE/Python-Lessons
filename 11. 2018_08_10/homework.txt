@@ -1,0 +1,3 @@
+1. Зарегистрироваться на https://informatics.msk.ru/login/index.php
+2. Решить задачи A-H: https://informatics.msk.ru/mod/statements/view.php?id=26735
+3. Решить задачи A-F: https://informatics.msk.ru/mod/statements/view.php?id=26736
