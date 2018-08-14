@@ -1,0 +1,9 @@
+1. Узнать, что такое:
+- граф (математика)
+- ребро
+- вершина
+- направленный граф
+- взвешенный граф
+
+2. https://inf-ege.sdamgia.ru/test?id=3792853&nt=True&pub=False
+3. Решить задачи D-F: https://informatics.msk.ru/mod/statements/view.php?id=26736
