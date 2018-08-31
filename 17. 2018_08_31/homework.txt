@@ -1,0 +1,6 @@
+0. Написать алгоритм бинарного поиска с нуля самому, не смотря в готовый код (для самостоятельной проверки)
+1. Задачи A-H: https://informatics.msk.ru/mod/statements/view.php?id=18034
+2. Для ознакомления:
+* https://habr.com/post/146228/
+* https://habr.com/post/91605/
+* https://habr.com/post/91698/
