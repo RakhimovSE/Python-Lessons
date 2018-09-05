@@ -1,0 +1,7 @@
+Возможно, какие-то задачи повторяются
+
+1. http://acm.timus.ru/problem.aspx?space=1&num=1582
+2. http://acm.timus.ru/problem.aspx?space=1&num=1110
+3. http://acm.timus.ru/problem.aspx?space=1&num=1131
+4. http://acm.timus.ru/problem.aspx?space=1&num=1083
+5. http://acm.timus.ru/problem.aspx?space=1&num=2031
