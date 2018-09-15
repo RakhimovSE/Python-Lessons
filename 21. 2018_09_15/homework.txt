@@ -1,0 +1,2 @@
+1. Прочитать про Решето Эратосфена, факторизация чисел
+2. Решить все задачи: https://mipt.ru/abiturs/olympiads/vos/informatics/subreg1718/2017-subreg-tasks-9-11.pdf
