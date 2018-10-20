@@ -1,0 +1,5 @@
+1. Прочитать (абстрактные классы, возбуждение и перехват исключительных ситуаций): https://www.ibm.com/developerworks/ru/library/l-python3-2/index.html
+
+2. Решить задачи: https://neerc.ifmo.ru/school/archive/2017-2018/ru-olymp-spb-municipal-2017-statements.pdf
+
+3. Дополнительно: https://informatics.msk.ru/py-source/source/dir/353-16461
